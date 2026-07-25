@@ -1,0 +1,8 @@
+{
+  "name": "core-skills",
+  "description": "My personal collection of Claude skills.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lance Monfort"
+  }
+}
