@@ -5,6 +5,10 @@ description: How to answer any research, fact-finding, or "look this up" questio
 
 # Research
 
+## Scope
+
+- If the request is a broad catch-up or briefing on recent AI news rather than a specific question, use the ai-rundown skill's format instead. This skill's accuracy rules still apply.
+
 ## Before answering
 
 - Search the web before answering anything that could have changed, or any specific number, date, name, or figure. Do not answer from memory and then check.
