@@ -32,3 +32,4 @@ Always in this order:
 - Concise. Cut preamble, throat-clearing, and restating my question.
 - Bullets over prose.
 - No summary paragraph at the end repeating what you just said.
+- Never use bold for emphasis inside bullet points.
