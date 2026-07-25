@@ -52,36 +52,74 @@ Leave out: corporate net zero pledges, awards, conference announcements,
 vendor marketing, generic ESG commentary, and anything that doesn't change a
 decision I'd make on a project.
 
+## Bullet structure
+
+Every bullet in every section takes the same shape:
+
+```
+- **Subject** — description. [link]
+```
+
+The subject is a short noun phrase naming the thing that changed. Name the
+specific standard, scheme version, tool release, or instrument — not a category.
+Keep it to roughly six words and no trailing punctuation.
+
+- Good subjects: "Part L 2025 consultation", "LEED v5 BD+C transition deadline",
+  "ClimateStudio 2.2 release", "EPBD recast Article 7"
+- Bad subjects: "New regulation", "Rating system news", "Tool update",
+  "Important development"
+
+The description follows the em dash and does the actual work: what changed, what
+it changes for me, and when it bites. One to two lines. It must read as a
+complete sentence on its own — do not write a description that only parses if
+you read the subject first.
+
 ## Output format
 
 ```
 ## Sustainability rundown — <today's date>
 
 ### Regulation and compliance
-- Headline. What it changes, and when it bites. [link]
+- **Subject** — what it changes, and when it bites. [link]
 
 ### Rating systems
-- Headline. What it changes. [link]
+- **Subject** — what it changes, and when it bites. [link]
 
 ### Tools and methods
-- Headline. What it changes. [link]
+- **Subject** — what it changes, and whether it affects existing workflows. [link]
 
 ### Wider picture
-- Headline. Why it reaches practice. [link]
+- **Subject** — why it reaches practice. [link]
 
 ### Worth acting on
-- One line, or omit this section entirely.
+- **Action** — what to do and by when. [link if the deadline has a source]
 ```
+
+## Worth acting on
+
+This is the section I actually use, so treat it as the point of the briefing
+rather than an afterthought.
+
+- Only include items that need a decision or a diary entry from me within the
+  next quarter or two. Everything else stays in the sections above.
+- Same subject-then-description shape, but the subject is the action, phrased as
+  an imperative: "Re-baseline TM54 assumptions", "Register projects under
+  BREEAM 2018 before cut-off".
+- Attach the deadline or trigger date to every item. An action with no date is
+  not an action.
+- Three items maximum. If nothing in the quarter warrants action, omit the
+  section entirely rather than inventing something.
 
 ## Rules
 
-- Twelve bullets maximum across the whole thing. Cut the weakest rather than
-  exceeding it.
+- Twelve bullets maximum across the whole thing, excluding the "Worth acting on"
+  section. Cut the weakest rather than exceeding it.
 - Omit any section with nothing real in it. Do not pad.
-- One to two lines per bullet. Every bullet carries a link.
+- Every bullet carries a link. Every bullet has a subject.
 - Always give effective dates and transition deadlines where they exist. A
   change with no date attached is not useful to me.
 - Where something is proposed rather than confirmed, say so explicitly.
 - If a quarter was quiet, say so. Never manufacture significance.
 - No opening or closing summary.
-- Never use bold for emphasis inside bullet points.
+- Bold is for the subject label only. Never use it for emphasis anywhere inside
+  the description.
