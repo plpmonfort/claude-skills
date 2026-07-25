@@ -1,0 +1,14 @@
+{
+  "name": "my-skills",
+  "description": "My personal skills library.",
+  "owner": {
+    "name": "Lawrence Monfort"
+  },
+  "plugins": [
+    {
+      "name": "core-skills",
+      "source": "./plugins/core-skills",
+      "description": "My personal collection of Claude skills."
+    }
+  ]
+}
