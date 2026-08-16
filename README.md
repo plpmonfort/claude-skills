@@ -30,6 +30,9 @@ release, and the skills update in claude.ai. No copying files around.
 |---|---|
 | `general-research` | Search first, cite sources, flag uncertainty, stay concise. |
 | `ai-rundown` | Headline-only briefing on recent AI news relevant to using Claude. |
+| `sustainability-rundown` | Briefing on regulation, rating systems, and tools in the built environment. |
+| `briefing` | Agree the objective, assumptions, and plan before any work starts. |
+| `skill-smith` | How to write, edit, and release the skills in this repo. |
 
 ## Releasing a change
 
