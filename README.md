@@ -46,6 +46,9 @@ change and does nothing.
 
 ## Adding a skill
 
+The `skill-smith` skill covers this in full — conventions, overlap rules,
+release order, and what to check before committing. The short version:
+
 Create `plugins/core-skills/skills/<new-name>/SKILL.md`, with frontmatter:
 
     ---
