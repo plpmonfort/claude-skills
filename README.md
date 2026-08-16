@@ -30,6 +30,9 @@ release, and the skills update in claude.ai. No copying files around.
 |---|---|
 | `general-research` | Search first, cite sources, flag uncertainty, stay concise. |
 | `ai-rundown` | Headline-only briefing on recent AI news relevant to using Claude. |
+| `sustainability-rundown` | Briefing on regulation, rating systems, and tools in the built environment. |
+| `briefing` | Agree the objective, assumptions, and plan before any work starts. |
+| `skill-smith` | How to write, edit, and release the skills in this repo. |
 
 ## Releasing a change
 
@@ -42,6 +45,9 @@ Steps 3 and 4 are separate. Skipping the version bump means Claude sees no
 change and does nothing.
 
 ## Adding a skill
+
+The `skill-smith` skill covers this in full — conventions, overlap rules,
+release order, and what to check before committing. The short version:
 
 Create `plugins/core-skills/skills/<new-name>/SKILL.md`, with frontmatter:
 

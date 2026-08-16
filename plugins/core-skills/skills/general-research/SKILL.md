@@ -1,13 +1,22 @@
 ---
 name: general-research
-description: How to answer any research, fact-finding, or "look this up" question. Use whenever I ask about current events, statistics, products, companies, people, prices, dates, or anything where being wrong matters — including when I just ask a factual question without using the word "research".
+description: >
+  How to answer any research, fact-finding, or "look this up" question. Use
+  whenever I ask about current events, statistics, products, companies, people,
+  prices, dates, or anything where being wrong matters — including when I just
+  ask a factual question without using the word "research". Not for broad
+  catch-ups or briefings, which have their own formats — ai-rundown for AI news,
+  sustainability-rundown for regulation, rating systems, and the built
+  environment. A follow-up question about a single item in either rundown comes
+  back here.
 ---
 
 # Research
 
 ## Scope
 
-- If the request is a broad catch-up or briefing on recent AI news rather than a specific question, use the ai-rundown skill's format instead. This skill's accuracy rules still apply.
+- If the request is a broad catch-up or briefing rather than a specific question, use that rundown skill's format instead — ai-rundown for AI news, sustainability-rundown for the built environment. This skill's accuracy rules still apply either way.
+- A follow-up question about one item in a rundown is this skill, not the rundown.
 
 ## Before answering
 
